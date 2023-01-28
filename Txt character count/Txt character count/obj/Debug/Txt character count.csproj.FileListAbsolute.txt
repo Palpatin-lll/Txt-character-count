@@ -1,0 +1,7 @@
+C:\Users\79775\source\repos\Txt character count\Txt character count\bin\Debug\Txt character count.exe.config
+C:\Users\79775\source\repos\Txt character count\Txt character count\bin\Debug\Txt character count.exe
+C:\Users\79775\source\repos\Txt character count\Txt character count\bin\Debug\Txt character count.pdb
+C:\Users\79775\source\repos\Txt character count\Txt character count\obj\Debug\Txt character count.csproj.AssemblyReference.cache
+C:\Users\79775\source\repos\Txt character count\Txt character count\obj\Debug\Txt character count.csproj.CoreCompileInputs.cache
+C:\Users\79775\source\repos\Txt character count\Txt character count\obj\Debug\Txt character count.exe
+C:\Users\79775\source\repos\Txt character count\Txt character count\obj\Debug\Txt character count.pdb

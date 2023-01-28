@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txt character count", "Txt character count\Txt character count.csproj", "{4417F10B-B42A-439E-AF4C-B1BD09D7DAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4417F10B-B42A-439E-AF4C-B1BD09D7DAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4417F10B-B42A-439E-AF4C-B1BD09D7DAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4417F10B-B42A-439E-AF4C-B1BD09D7DAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4417F10B-B42A-439E-AF4C-B1BD09D7DAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF2EBB00-31B7-409E-B08A-F565FADAE9B0}
+	EndGlobalSection
+EndGlobal

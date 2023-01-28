@@ -1,0 +1,2 @@
+Hello World! This program counts the number of words in this file. 
+
